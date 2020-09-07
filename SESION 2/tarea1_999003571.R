@@ -32,3 +32,6 @@ sd(Car$pollution5)
 
 #R// la desviacion estandar de Polucion 3 es 0.2034444 y Polucion 5 es 0.2659942
 
+
+
+#FINAL TAREA1
