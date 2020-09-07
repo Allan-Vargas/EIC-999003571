@@ -34,4 +34,4 @@ sd(Car$pollution5)
 
 
 
-#FINAL TAREA1
+#FINAL TAREA1 FINAL
